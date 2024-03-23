@@ -341,7 +341,7 @@ header{
     opacity: 0.35;
 }
 .banner-section-outer .banner-section .banner_left_image {
-    left: 140px;
+    left: 80px;
     bottom: 130px;
 }
 .banner-section-outer .banner-section .banner_left_image img {
@@ -675,7 +675,7 @@ header{
 .who_we_are_section .who_we_are_image {
     left: 0;
     right: 0;
-    bottom: 0;
+    top: 20%;
     margin: 0 auto;
     text-align: center;
 }
